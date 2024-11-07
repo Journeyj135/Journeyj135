@@ -1,6 +1,9 @@
  Name: Hi, I’m Journey
+ 
  Job Title: Pro MMA Fighter/ Former UFC Fighter
+ 
  years developing: Year 2 in web development
+ 
  I’m interested in: web/mobile development
  
  info:
